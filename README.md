@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá, Eu sou o Jeovane Viana!!! 👋
 
-<!--
-**Ban-Gih/Ban-Gih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudando Java na  [DIO](https://digitalinnovation.one/)
+- ❤️ Apaixonado por tecnologia e games.
 
-Here are some ideas to get you started:
+### 📊 Estatísticas no GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ban-Gih's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ban-Gih&show_icons=true&theme=dracula)
+
+**Aplicações e Dados**
+
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,java,mysql,spring,maven,js,html,css)](https://skillicons.dev)
+
+**DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
+
+**Ferramentas de Desenvolvimento**
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
+  <br/>
+
